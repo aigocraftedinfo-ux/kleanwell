@@ -1,0 +1,6 @@
+{
+  "name": "Kleanwell Care",
+  "description": "Premium, eco-friendly green cleaning services in Bengaluru featuring a real-time quote calculator and an automated WhatsApp booking system.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
